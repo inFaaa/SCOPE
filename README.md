@@ -1,4 +1,4 @@
-<h1 align="center">SCOPE: Span-Credit Prompt Rewriting for Frozen Text-to-Image Models</h1>
+<h1 align="center">SCOPE: Semantic Bounded Credit Optimization for Prompt Engineering in Text-to-image Generation</h1>
 
 <p align="center">
   <a href="https://github.com/MAC-AutoML/SCOPE">
